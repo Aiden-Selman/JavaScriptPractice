@@ -1,0 +1,2 @@
+// JavaScript Variables
+var globalVariable;
