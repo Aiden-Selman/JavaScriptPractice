@@ -1,2 +1,3 @@
 // JavaScript Variables
-var globalVariable;
+var variable;
+let value;
