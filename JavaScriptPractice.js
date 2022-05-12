@@ -24,3 +24,25 @@ var x = 1;
     var x = 0;
 }
 // x can be used here
+
+// redeclaring variables
+var x = 10;
+// Here x is 10
+
+{
+var x = 2;
+// Here x is 2
+}
+
+// Here x is 2
+//
+
+let x = 10;
+// Here x is 10
+
+{
+let x = 2;
+// Here x is 2
+}
+
+// Here x is 10
