@@ -69,3 +69,9 @@ car.color = "red";
 
 // You can add a property:
 car.owner = "Johnson";
+
+// JS operators
+// Adding
+let x = 5;
+let y = 2;
+let z = x + y;
