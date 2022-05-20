@@ -75,3 +75,8 @@ car.owner = "Johnson";
 let x = 5;
 let y = 2;
 let z = x + y;
+
+// Multiplying
+let x = 5;
+let y = 2;
+let z = x * y;
