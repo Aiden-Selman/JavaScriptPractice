@@ -80,3 +80,8 @@ let z = x + y;
 let x = 5;
 let y = 2;
 let z = x * y;
+
+// Javascript data types
+let length = 16;                               // Number
+let lastName = "Johnson";                      // String
+let x = {firstName:"John", lastName:"Doe"};    // Object
