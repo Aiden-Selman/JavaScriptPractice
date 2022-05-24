@@ -91,3 +91,7 @@ function myFunction(p1, p2)
 {
     return p1 * p2;   // The function returns the product of p1 and p2
 }
+
+// Objects
+// Defination
+const person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
