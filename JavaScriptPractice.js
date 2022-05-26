@@ -95,3 +95,11 @@ function myFunction(p1, p2)
 // Objects
 // Defination
 const person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+
+const person = 
+{
+    firstName: "John",
+    lastName: "Doe",
+    age: 50,
+    eyeColor: "blue"
+};
