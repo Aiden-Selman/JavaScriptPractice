@@ -103,3 +103,6 @@ const person =
     age: 50,
     eyeColor: "blue"
 };
+
+// Methods
+name = person.fullName();
