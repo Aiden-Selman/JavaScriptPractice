@@ -111,3 +111,8 @@ name = person.fullName();
 // Declartion
 let carName1 = "Volvo XC60";  // Double quotes
 let carName2 = 'Volvo XC60';  // Single quotes
+
+// You can have quotes in a string so long as they don't match the outside of the string declaration.
+let answer1 = "It's alright";
+let answer2 = "He is called 'Johnny'";
+let answer3 = 'He is called "Johnny"';
