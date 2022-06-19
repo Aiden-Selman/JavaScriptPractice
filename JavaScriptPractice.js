@@ -117,6 +117,10 @@ let answer1 = "It's alright";
 let answer2 = "He is called 'Johnny'";
 let answer3 = 'He is called "Johnny"';
 
+// Escape characters
+// The sequence \"  inserts a double quote in a string
+let text = "We are the so-called \"Vikings\" from the north.";
+
 // Methods
 // Length
 let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
