@@ -121,6 +121,9 @@ let answer3 = 'He is called "Johnny"';
 // The sequence \"  inserts a double quote in a string
 let text = "We are the so-called \"Vikings\" from the north.";
 
+// The sequence \'  inserts a single quote in a string
+let text= 'It\'s alright.';
+
 // Methods
 // Length
 let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
