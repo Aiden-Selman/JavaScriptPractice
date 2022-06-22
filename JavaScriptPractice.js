@@ -124,6 +124,9 @@ let text = "We are the so-called \"Vikings\" from the north.";
 // The sequence \'  inserts a single quote in a string
 let text= 'It\'s alright.';
 
+// The sequence \\  inserts a backslash in a string
+let text = "The character \\ is called backslash.";
+
 // Methods
 // Length
 let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
