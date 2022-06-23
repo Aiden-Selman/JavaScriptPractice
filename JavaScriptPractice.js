@@ -131,3 +131,8 @@ let text = "The character \\ is called backslash.";
 // Length
 let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let length = text.length;
+
+// Slice
+// Extracts a part of a string and returns the extracted part in a new string
+let str = "Apple, Banana, Kiwi";
+let part = str.slice(7, 13);
