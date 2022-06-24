@@ -136,3 +136,7 @@ let length = text.length;
 // Extracts a part of a string and returns the extracted part in a new string
 let str = "Apple, Banana, Kiwi";
 let part = str.slice(7, 13);
+
+// Substring
+let str = "Apple, Banana, Kiwi";
+let part = str.substring(7, 13);
