@@ -144,3 +144,7 @@ let part = str.substring(7, 13);
 // Replace
 let text = "Please visit Microsoft!";
 let newText = text.replace("Microsoft", "W3Schools");
+
+// to uppercase
+let text1 = "Hello World!";
+let text2 = text1.toUpperCase();
