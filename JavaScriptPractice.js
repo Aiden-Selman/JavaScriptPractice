@@ -148,3 +148,7 @@ let newText = text.replace("Microsoft", "W3Schools");
 // to uppercase
 let text1 = "Hello World!";
 let text2 = text1.toUpperCase();
+
+// to lowercase
+let text1 = "Hello World!";
+let text2 = text1.toLowerCase();
