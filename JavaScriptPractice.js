@@ -152,3 +152,7 @@ let text2 = text1.toUpperCase();
 // to lowercase
 let text1 = "Hello World!";
 let text2 = text1.toLowerCase();
+
+// concat
+text = "Hello" + " " + "World!";
+text = "Hello".concat(" ", "World!");
