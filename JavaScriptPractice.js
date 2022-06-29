@@ -154,5 +154,9 @@ let text1 = "Hello World!";
 let text2 = text1.toLowerCase();
 
 // concat
-text = "Hello" + " " + "World!";
-text = "Hello".concat(" ", "World!");
+let text = "Hello" + " " + "World!";
+let text = "Hello".concat(" ", "World!");
+
+// trim
+let text1 = "      Hello World!      ";
+let text2 = text1.trim();
