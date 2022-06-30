@@ -160,3 +160,7 @@ let text = "Hello".concat(" ", "World!");
 // trim
 let text1 = "      Hello World!      ";
 let text2 = text1.trim();
+
+// start pad
+let text = "5";
+let padded = text.padStart(4,"x");
