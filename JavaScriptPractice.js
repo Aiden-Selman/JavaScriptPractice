@@ -164,3 +164,7 @@ let text2 = text1.trim();
 // start pad
 let text = "5";
 let padded = text.padStart(4,"x");
+
+// end pad
+let text = "5";
+let padded = text.padEnd(4,"x");
