@@ -168,3 +168,7 @@ let padded = text.padStart(4,"x");
 // end pad
 let text = "5";
 let padded = text.padEnd(4,"x");
+
+// char at
+let text = "HELLO WORLD";
+let char = text.charAt(0);
