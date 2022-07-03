@@ -172,3 +172,7 @@ let padded = text.padEnd(4,"x");
 // char at
 let text = "HELLO WORLD";
 let char = text.charAt(0);
+
+// char code at
+let text = "HELLO WORLD";
+let char = text.charCodeAt(0);
