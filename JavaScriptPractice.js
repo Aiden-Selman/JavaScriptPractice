@@ -176,3 +176,7 @@ let char = text.charAt(0);
 // char code at
 let text = "HELLO WORLD";
 let char = text.charCodeAt(0);
+
+// index of
+let str = "Please locate where 'locate' occurs!";
+str.indexOf("locate");
