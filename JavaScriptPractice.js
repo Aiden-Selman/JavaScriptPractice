@@ -180,3 +180,7 @@ let char = text.charCodeAt(0);
 // index of
 let str = "Please locate where 'locate' occurs!";
 str.indexOf("locate");
+
+// last index of
+let str = "Please locate where 'locate' occurs!";
+str.lastIndexOf("locate");
