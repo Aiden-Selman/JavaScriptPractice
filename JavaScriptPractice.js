@@ -184,3 +184,7 @@ str.indexOf("locate");
 // last index of
 let str = "Please locate where 'locate' occurs!";
 str.lastIndexOf("locate");
+
+// search
+let str = "Please locate where 'locate' occurs!";
+str.search("locate");
