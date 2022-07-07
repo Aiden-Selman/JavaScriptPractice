@@ -188,3 +188,8 @@ str.lastIndexOf("locate");
 // search
 let str = "Please locate where 'locate' occurs!";
 str.search("locate");
+
+// match
+// The match() method searches a string for a match against a regular expression, and returns the matches, as an Array object
+let text = "The rain in SPAIN stays mainly in the plain";
+text.match(/ain/g);
