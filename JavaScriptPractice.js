@@ -193,3 +193,8 @@ str.search("locate");
 // The match() method searches a string for a match against a regular expression, and returns the matches, as an Array object
 let text = "The rain in SPAIN stays mainly in the plain";
 text.match(/ain/g);
+
+// includes
+// returns true if a string contains a specified value
+let text = "Hello world, welcome to the universe.";
+text.includes("world");
