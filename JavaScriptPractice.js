@@ -198,3 +198,8 @@ text.match(/ain/g);
 // returns true if a string contains a specified value
 let text = "Hello world, welcome to the universe.";
 text.includes("world");
+
+// startswith
+// method returns true if a string begins with a specified value, otherwise false
+let text = "Hello world, welcome to the universe.";
+text.startsWith("Hello");
