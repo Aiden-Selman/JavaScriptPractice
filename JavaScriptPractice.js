@@ -203,3 +203,8 @@ text.includes("world");
 // method returns true if a string begins with a specified value, otherwise false
 let text = "Hello world, welcome to the universe.";
 text.startsWith("Hello");
+
+// endswith
+// method returns true if a string ends with a specified value, otherwise false
+let text = "John Doe";
+text.endsWith("Doe");
