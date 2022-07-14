@@ -208,3 +208,10 @@ text.startsWith("Hello");
 // method returns true if a string ends with a specified value, otherwise false
 let text = "John Doe";
 text.endsWith("Doe");
+
+// Numbers
+// methods
+// is not a number
+// find out if a value is a not a number
+let x = 100 / "Apple";
+isNaN(x);
