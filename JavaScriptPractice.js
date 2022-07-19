@@ -215,3 +215,13 @@ text.endsWith("Doe");
 // find out if a value is a not a number
 let x = 100 / "Apple";
 isNaN(x);
+
+// Watch out for NaN. If you use NaN in a mathematical operation, the result will also be NaN
+let x = NaN;
+let y = 5;
+let z = x + y;
+
+// Or the result might be a concatenation like NaN5
+let x = NaN;
+let y = "5";
+let z = x + y;
