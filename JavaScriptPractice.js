@@ -225,3 +225,14 @@ let z = x + y;
 let x = NaN;
 let y = "5";
 let z = x + y;
+
+// NaN is a number: typeof NaN returns number
+typeof NaN;
+
+// Infinity
+let myNumber = 2;
+// Execute until Infinity
+while (myNumber != Infinity) 
+{
+  myNumber = myNumber * myNumber;
+}
