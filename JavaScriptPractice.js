@@ -236,3 +236,7 @@ while (myNumber != Infinity)
 {
   myNumber = myNumber * myNumber;
 }
+
+// Dividing by 0 will generate infinity as well
+let x =  2 / 0;
+let y = -2 / 0;
