@@ -240,3 +240,6 @@ while (myNumber != Infinity)
 // Dividing by 0 will generate infinity as well
 let x =  2 / 0;
 let y = -2 / 0;
+
+// Infinity is a number: typeof Infinity returns number
+typeof Infinity;
