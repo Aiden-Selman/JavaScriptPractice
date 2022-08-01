@@ -243,3 +243,6 @@ let y = -2 / 0;
 
 // Infinity is a number: typeof Infinity returns number
 typeof Infinity;
+
+// Hexadecimal
+let x = 0xFF;
