@@ -257,3 +257,6 @@ myNumber.toString(12);
 myNumber.toString(10);
 myNumber.toString(8);
 myNumber.toString(2);
+
+// Numbers as objects
+let y = new Number(123);
