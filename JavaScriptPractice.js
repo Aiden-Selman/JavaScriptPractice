@@ -260,3 +260,11 @@ myNumber.toString(2);
 
 // Numbers as objects
 let y = new Number(123);
+
+// Number methods
+// toExponential() returns a string, with a number rounded and written using exponential notation.
+// A parameter defines the number of characters behind the decimal point
+let x = 9.656;
+x.toExponential(2);
+x.toExponential(4);
+x.toExponential(6);
