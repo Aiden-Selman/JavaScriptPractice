@@ -276,3 +276,11 @@ x.toFixed(0);
 x.toFixed(2);
 x.toFixed(4);
 x.toFixed(6);
+
+// toPrecision
+// toPrecision() returns a string, with a number written with a specified length
+let x = 9.656;
+x.toPrecision();
+x.toPrecision(2);
+x.toPrecision(4);
+x.toPrecision(6);
