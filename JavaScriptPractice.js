@@ -284,3 +284,10 @@ x.toPrecision();
 x.toPrecision(2);
 x.toPrecision(4);
 x.toPrecision(6);
+
+// valueOf
+// valueOf() returns a number as a number
+let x = 123;
+x.valueOf();
+(123).valueOf();
+(100 + 23).valueOf();
