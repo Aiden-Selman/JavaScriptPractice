@@ -304,3 +304,6 @@ Number("10.33");
 Number("10,33");
 Number("10 33");
 Number("John");
+
+// Number() can also convert a date to a number
+Number(new Date("1970-01-01"))
