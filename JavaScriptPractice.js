@@ -307,3 +307,13 @@ Number("John");
 
 // Number() can also convert a date to a number
 Number(new Date("1970-01-01"))
+
+// parseInt
+// parseInt() parses a string and returns a whole number. Spaces are allowed. Only the first number is returned:
+parseInt("-10");
+parseInt("-10.33");
+parseInt("10");
+parseInt("10.33");
+parseInt("10 20 30");
+parseInt("10 years");
+parseInt("years 10");
