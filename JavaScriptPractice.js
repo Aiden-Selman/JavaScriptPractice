@@ -317,3 +317,11 @@ parseInt("10.33");
 parseInt("10 20 30");
 parseInt("10 years");
 parseInt("years 10");
+
+// parseFloat
+// parseFloat() parses a string and returns a number. Spaces are allowed. Only the first number is returned
+parseFloat("10");
+parseFloat("10.33");
+parseFloat("10 20 30");
+parseFloat("10 years");
+parseFloat("years 10");
