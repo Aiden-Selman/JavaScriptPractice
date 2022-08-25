@@ -325,3 +325,10 @@ parseFloat("10.33");
 parseFloat("10 20 30");
 parseFloat("10 years");
 parseFloat("years 10");
+
+// Number MAX_VALUE
+// MAX_VALUE returns the largest possible number in JavaScript.
+// Number MIN_VALUE
+// MIN_VALUE returns the lowest possible number in JavaScript.
+let x = Number.MAX_VALUE;
+let x = Number.MIN_VALUE;
