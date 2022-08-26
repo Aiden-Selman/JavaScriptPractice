@@ -332,3 +332,8 @@ parseFloat("years 10");
 // MIN_VALUE returns the lowest possible number in JavaScript.
 let x = Number.MAX_VALUE;
 let x = Number.MIN_VALUE;
+
+// Number Positive_Infinity
+// Number negative infinity
+let x = Number.POSITIVE_INFINITY;
+let x = Number.NEGATIVE_INFINITY;
