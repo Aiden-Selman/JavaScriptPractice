@@ -337,3 +337,7 @@ let x = Number.MIN_VALUE;
 // Number negative infinity
 let x = Number.POSITIVE_INFINITY;
 let x = Number.NEGATIVE_INFINITY;
+
+// Number as NaN
+// NaN is a JavaScript reserved word indicating that a number is not a legal number
+let x = Number.NaN;
