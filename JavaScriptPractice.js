@@ -341,3 +341,7 @@ let x = Number.NEGATIVE_INFINITY;
 // Number as NaN
 // NaN is a JavaScript reserved word indicating that a number is not a legal number
 let x = Number.NaN;
+
+// Arrays
+// Declaration
+const cars = ["Saab", "Volvo", "BMW"];
