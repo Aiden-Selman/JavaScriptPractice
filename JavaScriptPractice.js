@@ -345,3 +345,6 @@ let x = Number.NaN;
 // Arrays
 // Declaration
 const cars = ["Saab", "Volvo", "BMW"];
+
+// Second way of declaration
+const cars = new Array("Saab", "Volvo", "BMW");
