@@ -348,3 +348,7 @@ const cars = ["Saab", "Volvo", "BMW"];
 
 // Second way of declaration
 const cars = new Array("Saab", "Volvo", "BMW");
+
+// Pulling elements out of the array
+const cars = ["Saab", "Volvo", "BMW"];
+let car = cars[0];
