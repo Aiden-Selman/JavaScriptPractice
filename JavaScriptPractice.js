@@ -352,3 +352,7 @@ const cars = new Array("Saab", "Volvo", "BMW");
 // Pulling elements out of the array
 const cars = ["Saab", "Volvo", "BMW"];
 let car = cars[0];
+
+// Changing an array element
+const cars = ["Saab", "Volvo", "BMW"];
+cars[0] = "Opel";
