@@ -356,3 +356,7 @@ let car = cars[0];
 // Changing an array element
 const cars = ["Saab", "Volvo", "BMW"];
 cars[0] = "Opel";
+
+// Accessing the full array
+const cars = ["Saab", "Volvo", "BMW"];
+document.getElementById("demo").innerHTML = cars;
