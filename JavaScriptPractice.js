@@ -360,3 +360,9 @@ cars[0] = "Opel";
 // Accessing the full array
 const cars = ["Saab", "Volvo", "BMW"];
 document.getElementById("demo").innerHTML = cars;
+
+// Array properties and Methods
+// Length
+// The length property of an array returns the length of an array (the number of array elements).
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+let length = fruits.length;
