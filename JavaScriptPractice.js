@@ -366,3 +366,7 @@ document.getElementById("demo").innerHTML = cars;
 // The length property of an array returns the length of an array (the number of array elements).
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 let length = fruits.length;
+
+// Using length to access the last array element
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+let fruit = fruits[fruits.length - 1];
