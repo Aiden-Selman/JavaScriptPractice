@@ -392,3 +392,7 @@ text += "</ul>";
 function myFunction(value) {
   text += "<li>" + value + "</li>";
 }
+
+// Adding new elements to an array
+const fruits = ["Banana", "Orange", "Apple"];
+fruits.push("Lemon");  // Adds a new element (Lemon) to fruits
