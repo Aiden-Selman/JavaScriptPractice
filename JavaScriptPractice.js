@@ -400,3 +400,8 @@ fruits.push("Lemon");  // Adds a new element (Lemon) to fruits
 // New element can also be added to an array using the length property
 const fruits = ["Banana", "Orange", "Apple"];
 fruits[fruits.length] = "Lemon";  // Adds "Lemon" to fruits
+
+// Array methods
+// The JavaScript method toString() converts an array to a string of (comma separated) array values.
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+document.getElementById("demo").innerHTML = fruits.toString();
