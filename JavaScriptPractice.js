@@ -405,3 +405,8 @@ fruits[fruits.length] = "Lemon";  // Adds "Lemon" to fruits
 // The JavaScript method toString() converts an array to a string of (comma separated) array values.
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 document.getElementById("demo").innerHTML = fruits.toString();
+
+// JavaScript Array pop()
+// The pop() method removes the last element from an array:
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.pop();
