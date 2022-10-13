@@ -410,3 +410,8 @@ document.getElementById("demo").innerHTML = fruits.toString();
 // The pop() method removes the last element from an array:
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.pop();
+
+// JavaScript Array push()
+// The push() method adds a new element to an array (at the end):
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Kiwi");
