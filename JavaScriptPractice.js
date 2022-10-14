@@ -415,3 +415,8 @@ fruits.pop();
 // The push() method adds a new element to an array (at the end):
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.push("Kiwi");
+
+// JavaScript Array shift()
+// The shift() method removes the first array element and "shifts" all other elements to a lower index.
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.shift();
