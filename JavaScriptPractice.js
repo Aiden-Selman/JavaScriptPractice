@@ -420,3 +420,8 @@ fruits.push("Kiwi");
 // The shift() method removes the first array element and "shifts" all other elements to a lower index.
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.shift();
+
+// JavaScript Array unshift()
+// The unshift() method adds a new element to an array (at the beginning), and "unshifts" older elements:
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.unshift("Lemon");
