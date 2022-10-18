@@ -425,3 +425,8 @@ fruits.shift();
 // The unshift() method adds a new element to an array (at the beginning), and "unshifts" older elements:
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.unshift("Lemon");
+
+// JavaScript Array length
+// The length property provides an easy way to append a new element to an array:
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits[fruits.length] = "Kiwi";
