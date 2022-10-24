@@ -430,3 +430,8 @@ fruits.unshift("Lemon");
 // The length property provides an easy way to append a new element to an array:
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits[fruits.length] = "Kiwi";
+
+// JavaScript Array delete()
+// Array elements can be deleted using the JavaScript operator delete. Using delete leaves undefined holes in the array.
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+delete fruits[0];
